@@ -5,6 +5,7 @@ A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, eac
 <img src="https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/AllScreens_AllPlatforms.jpg" />
 
 ##Build Status
+###Mobile App Code
 | Project               | master branch                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
 | Acquaint.XForms.Droid | <img src="https://josau.visualstudio.com/_apis/public/build/definitions/ff9dfce3-f143-428a-9694-2fa649920fc5/7/badge" /> |
